@@ -13,3 +13,8 @@ This repo is for **GitHub** *training*
 
 * Outcome 1
 * Outcome 2
+
+## Changes
+
+* Change 1
+* Change 2
